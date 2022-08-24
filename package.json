@@ -1,0 +1,12 @@
+{
+  "name": "postfix-intercept",
+  "version": "1.0.0",
+  "description": "node server for receiving and processing emails via PostFix",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Michael Wood",
+  "license": "MIT"
+}
