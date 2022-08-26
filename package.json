@@ -8,5 +8,8 @@
     "start": "node server.js"
   },
   "author": "Michael Wood",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.1"
+  }
 }
